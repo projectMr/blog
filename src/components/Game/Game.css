@@ -1,0 +1,14 @@
+.lol{
+    border-radius: 30%;
+}
+.lol:hover{
+  border-radius: 30%;
+  animation: Rotate 4s infinite;
+}
+.tag{
+  margin: 10px 10px;
+}
+@keyframes Rotate {
+  from {}
+  to {transform: rotateY(360deg)}
+}

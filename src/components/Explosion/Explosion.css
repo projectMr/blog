@@ -1,0 +1,30 @@
+.center{
+  text-align: center;
+  margin: 20px 0;
+}
+.carAuto{
+  text-align: center;
+  height: 160px;
+  line-height: 160px;
+  background: #404040;
+  /*background: url('http://xl9.xunlei.com/img/page1_bg.jpg?v=e0cf3019042982b9f77845806f575682') center center;*/
+  overflow: hidden;
+}
+
+.bigWhiter {
+  font-size: 50px;
+  color: #fff;
+}
+.titleBottom{
+  font-size: 14px;
+  font-weight: 600;
+}
+.distanceBottom{
+  margin-top: 200px;
+}
+.shapeClassification{
+  /*background: blue;*/
+  display: block;
+  width: 50px;
+  height: 20px;
+}
